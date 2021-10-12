@@ -1,0 +1,10 @@
+@font-face {
+	font-family: Montserrat;
+	src: url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+}
+ #pageContent {
+	background-attachment: fixed;
+	background-image: url("./Content/images/mountain-background.jpeg");
+	width: inherit;
+	font-family: Montserrat;
+}
